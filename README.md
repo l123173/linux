@@ -22,3 +22,8 @@ Screen 0: minimum 320 x 200, current 3840 x 1080, maximum 16384 x 16384
 **DisplayPort-1-3** connected 1920x1080+0+0 (normal left inverted right x axis y axis) 527mm x 296mm  
    1920x1080     60.00*+  
    1600x900      60.00    
+
+
+## 看版本
+uname -r  
+或者 cat /proc/version  
