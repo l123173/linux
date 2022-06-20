@@ -37,5 +37,9 @@ https://www.cnblogs.com/leoxuan/p/8275343.html#:~:text=CentOS7%20%EE%80%80%E9%98
 
 
 ## 音量
-https://blog.csdn.net/weixin_43046653/article/details/105583100
+https://blog.csdn.net/weixin_43046653/article/details/105583100  
 alsamixer，打开可视化，依次滚动鼠标滚轮，修改每一个的音量的上下，没有再F6选择声卡。
+
+## 查找文件
+用grep 方法：grep -n scaler ./  
+
