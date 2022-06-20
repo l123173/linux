@@ -34,3 +34,8 @@ uname -r
 禁用，禁止开机启动： systemctl disable firewalld  
 停止运行： systemctl stop firewalld  
 https://www.cnblogs.com/leoxuan/p/8275343.html#:~:text=CentOS7%20%EE%80%80%E9%98%B2%E7%81%AB%E5%A2%99%EE%80%81%EF%BC%88%EE%80%80firewall%EE%80%81%EF%BC%89%E7%9A%84%E6%93%8D%E4%BD%9C%EE%80%80%E5%91%BD%E4%BB%A4%EE%80%81%20%E5%AE%89%E8%A3%85%EF%BC%9Ayum%20install%20firewalld%201%E3%80%81firewalld%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%20%E5%90%AF%E5%8A%A8%EF%BC%9A,systemctl%20start%20firewalld%20%E6%9F%A5%203.%E4%BF%A1%E4%BB%BB%E7%BA%A7%E5%88%AB%EF%BC%8C%E9%80%9A%E8%BF%87Zone%E7%9A%84%E5%80%BC%E6%8C%87%E5%AE%9A%20drop%3A%20%E4%B8%A2%E5%BC%83%E6%89%80%E6%9C%89%E8%BF%9B%E5%85%A5%E7%9A%84%E5%8C%85%EF%BC%8C%E8%80%8C%E4%B8%8D%E7%BB%99%E5%87%BA%E4%BB%BB%E4%BD%95%E5%93%8D%E5%BA%94  
+
+
+## 音量
+https://blog.csdn.net/weixin_43046653/article/details/105583100
+alsamixer，打开可视化，依次滚动鼠标滚轮，修改每一个的音量的上下，没有再F6选择声卡。
