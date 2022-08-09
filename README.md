@@ -42,4 +42,4 @@ alsamixer，打开可视化，依次滚动鼠标滚轮，修改每一个的音�
 
 ## 查找文件
 用grep 方法：grep -n scaler ./  
-
+find ./ -name st.cmd.acr
