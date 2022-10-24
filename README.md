@@ -25,6 +25,12 @@ Screen 0: minimum 320 x 200, current 3840 x 1080, maximum 16384 x 16384
 
 
 ## 看版本
+https://linux.cn/article-9586-1.html  
+详见以上网址，好用的是way 1  
+
+**Way 1**  
+lsb_release -a
+**Way 2** 
 uname -r  
 或者 cat /proc/version  
 
