@@ -29,10 +29,11 @@ https://linux.cn/article-9586-1.html
 详见以上网址，好用的是way 1  
 
 **Way 1**  
-lsb_release -a
+lsb_release -a  
+
 **Way 2** 
-uname -r  
-或者 cat /proc/version  
+
+uname -r 或 cat /proc/version  
 
 ## 防火墙
 启动： systemctl start firewalld  
