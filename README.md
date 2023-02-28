@@ -28,6 +28,8 @@ Screen 0: minimum 320 x 200, current 3840 x 1080, maximum 16384 x 16384
 https://linux.cn/article-9586-1.html  
 详见以上网址，好用的是way 1  
 
+cat /etc/os-release （可以看发行版本号）
+
 **Way 1**  
 lsb_release -a  
 
