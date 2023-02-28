@@ -50,3 +50,10 @@ alsamixer，打开可视化，依次滚动鼠标滚轮，修改每一个的音�
 ## 查找文件
 用grep 方法：grep -n scaler ./  
 find ./ -name st.cmd.acr
+
+
+##
+RH 系可以用yum groupinstall "Development Tools" "Development Libraries"，但我实际操作，Libraries不可以用；
+yum groupinstall "Additional Development"  可用；
+具体可用yum grouplist 列出来
+
