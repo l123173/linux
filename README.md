@@ -52,7 +52,8 @@ alsamixer，打开可视化，依次滚动鼠标滚轮，修改每一个的音�
 ## 查找文件
 用grep 方法：grep -n scaler ./  
 find ./ -name st.cmd.acr
-
+grep -r "asyn=/opt/asyn-t56-77" /path/to/search/directory
+grep -r --include "*.txt" "asyn=/opt/asyn-t56-77" /path/to/search/directory
 
 ##
 RH 系可以用yum groupinstall "Development Tools" "Development Libraries"，但我实际操作，Libraries不可以用；
